@@ -1,1 +1,1 @@
-# Data-Science-Class-2020
+# Data-science-2.0
